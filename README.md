@@ -114,8 +114,8 @@ The _User Interface_ of the application is made of the follwing screens
             scheduler
         </td>
         <td> </td>
-        <td style="width: 30%">
-            <img style="max-width: 350px"  src="./readme/assets/screens/screen_9.png" alt="TodoScreen" />
+        <td width = 30%>
+            <img   src="./readme/assets/screens/screen_9.png" alt="TodoScreen" />
         </td>
     </tr>
 </table>
