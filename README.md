@@ -24,6 +24,9 @@ The _User Interface_ of the application is made of the follwing screens
 
 ## Functional flow
 
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
     <tr>
         <td>
@@ -124,5 +127,6 @@ The _User Interface_ of the application is made of the follwing screens
     </tr>
 </table>
 
-
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
