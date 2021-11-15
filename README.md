@@ -34,7 +34,7 @@ The _User Interface_ of the application is made of the follwing screens
         </td>
         <td> </td>
         <td>
-            <img src="./readme/assets/screens/screen_10.png" alt="TodoScreen" />
+            <img style="max-width: 350px"  src="./readme/assets/screens/screen_10.png" alt="TodoScreen" />
         </td>
     </tr>
     <tr>
@@ -43,7 +43,7 @@ The _User Interface_ of the application is made of the follwing screens
         </td>
         <td> </td>
         <td>
-            <img src="./readme/assets/screens/screen_1.png" alt="TodoScreen" />
+            <img style="max-width: 350px"  src="./readme/assets/screens/screen_1.png" alt="TodoScreen" />
         </td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ The _User Interface_ of the application is made of the follwing screens
         </td>
         <td> </td>
         <td>
-            <img src="./readme/assets/screens/screen_2.png" alt="TodoScreen" />
+            <img style="max-width: 350px"  src="./readme/assets/screens/screen_2.png" alt="TodoScreen" />
         </td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@ The _User Interface_ of the application is made of the follwing screens
         </td>
         <td> </td>
         <td>
-            <img src="./readme/assets/screens/screen_3.png" alt="TodoScreen" />
+            <img style="max-width: 350px"  src="./readme/assets/screens/screen_3.png" alt="TodoScreen" />
         </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ The _User Interface_ of the application is made of the follwing screens
         </td>
         <td> </td>
         <td>
-            <img src="./readme/assets/screens/screen_4.png" alt="TodoScreen" />
+            <img style="max-width: 350px"  src="./readme/assets/screens/screen_4.png" alt="TodoScreen" />
         </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@ The _User Interface_ of the application is made of the follwing screens
         </td>
         <td> </td>
         <td>
-            <img src="./readme/assets/screens/screen_5.png" alt="TodoScreen" />
+            <img style="max-width: 350px"  src="./readme/assets/screens/screen_5.png" alt="TodoScreen" />
         </td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ The _User Interface_ of the application is made of the follwing screens
         </td>
         <td> </td>
         <td>
-            <img src="./readme/assets/screens/screen_6.png" alt="TodoScreen" />
+            <img style="max-width: 350px"  src="./readme/assets/screens/screen_6.png" alt="TodoScreen" />
         </td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@ The _User Interface_ of the application is made of the follwing screens
         </td>
         <td> </td>
         <td>
-            <img src="./readme/assets/screens/screen_7.png" alt="TodoScreen" />
+            <img style="max-width: 350px"  src="./readme/assets/screens/screen_7.png" alt="TodoScreen" />
         </td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@ The _User Interface_ of the application is made of the follwing screens
         </td>
         <td> </td>
         <td>
-            <img src="./readme/assets/screens/screen_8.png" alt="TodoScreen" />
+            <img style="max-width: 350px"  src="./readme/assets/screens/screen_8.png" alt="TodoScreen" />
         </td>
     </tr>
     <tr>
@@ -115,7 +115,7 @@ The _User Interface_ of the application is made of the follwing screens
         </td>
         <td> </td>
         <td>
-            <img src="./readme/assets/screens/screen_9.png" alt="TodoScreen" />
+            <img style="max-width: 350px"  src="./readme/assets/screens/screen_9.png" alt="TodoScreen" />
         </td>
     </tr>
 </table>
