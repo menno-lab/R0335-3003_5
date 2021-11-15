@@ -8,8 +8,9 @@ The team is made of the following students:
 
 | name           | studentId | emailAddress            |
 |----------------|-----------|-------------------------|
-| Pavel Arkharov |           | arkharovp@gmail.com     |
+| Pavel Arkharov |  2108158  | arkharovp@gmail.com     |
 | Menno Jager    |  2104983  | menno.c.jager@gmail.com |
+| Richard Zilahi |  2108162  |    zilahi@gmail.com     |
 
 ## The Application
 
