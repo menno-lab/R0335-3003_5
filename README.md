@@ -37,7 +37,6 @@ The _User Interface_ of the application is made of the follwing screens
             <img src="./readme/assets/screens/screen_10.png" alt="TodoScreen" />
         </td>
     </tr>
-
     <tr>
         <td>
             login
@@ -47,7 +46,6 @@ The _User Interface_ of the application is made of the follwing screens
             <img src="./readme/assets/screens/screen_1.png" alt="TodoScreen" />
         </td>
     </tr>
-
     <tr>
         <td>
             editProfile
@@ -75,7 +73,6 @@ The _User Interface_ of the application is made of the follwing screens
             <img src="./readme/assets/screens/screen_4.png" alt="TodoScreen" />
         </td>
     </tr>
-
     <tr>
         <td>
             newtask
@@ -85,7 +82,6 @@ The _User Interface_ of the application is made of the follwing screens
             <img src="./readme/assets/screens/screen_5.png" alt="TodoScreen" />
         </td>
     </tr>
-
     <tr>
         <td>
             notifications
@@ -95,7 +91,6 @@ The _User Interface_ of the application is made of the follwing screens
             <img src="./readme/assets/screens/screen_6.png" alt="TodoScreen" />
         </td>
     </tr>
-
     <tr>
         <td>
             profile
@@ -105,7 +100,6 @@ The _User Interface_ of the application is made of the follwing screens
             <img src="./readme/assets/screens/screen_7.png" alt="TodoScreen" />
         </td>
     </tr>
-
     <tr>
         <td>
             signUp
@@ -115,7 +109,6 @@ The _User Interface_ of the application is made of the follwing screens
             <img src="./readme/assets/screens/screen_8.png" alt="TodoScreen" />
         </td>
     </tr>
-
     <tr>
         <td>
             scheduler
