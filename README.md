@@ -16,6 +16,29 @@ The team is made of the following students:
 
 We've chosen to build and implement a ver simple todo app.
 
+### Implementation
+
+#### Project structure
+
+```
+├── assets
+│   ├── fonts
+│   └── images
+├── components
+│   ├── __tests__
+│   └── common
+│       └── Input
+├── constants
+├── hooks
+├── navigation
+├── readme
+│   └── assets
+│       ├── misc
+│       └── screens
+└── screens
+    └── LoginScreen
+```
+
 ## Design
 
 ## User Interface
