@@ -22,10 +22,6 @@ We've chosen to build and implement a ver simple todo app.
 
 The _User Interface_ of the application is made of the follwing screens
 
-
-## Functional flow
-
-
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
@@ -124,3 +120,10 @@ The _User Interface_ of the application is made of the follwing screens
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
+## Functional Flow
+
+![Color Palette](./readme/assets/misc/todo_app_flow.png)
+
+## Color Palette
+
+![Color Palette](./readme/assets/misc/color_palette.png)
